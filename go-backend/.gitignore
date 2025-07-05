@@ -1,0 +1,32 @@
+# Бинарники
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Сборочные артефакты
+/build/
+/bin/
+/dist/
+/coverage.out
+
+# IDE-шные файлы
+.vscode/
+.idea/
+*.swp
+
+# Кэш Go
+*.log
+*.prof
+*.tmp
+go.work
+go.work.sum
+
+# OS
+.DS_Store
+Thumbs.db
+
+main
